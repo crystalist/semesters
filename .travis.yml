@@ -1,0 +1,4 @@
+language: ruby
+ruby:
+  - 2.1.5
+script: ruby tests/test_semester.rb
