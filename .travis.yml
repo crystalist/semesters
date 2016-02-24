@@ -1,4 +1,4 @@
 language: ruby
 ruby:
-  - 2.1.5
+  - 2.1.5p273
 script: ruby tests/test_semester.rb
